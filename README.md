@@ -4,10 +4,10 @@
 <table>
   <tr>
     <td width="220" valign="top">
-      <img src="rm_assets/EBIcon.png" width="200" alt="EmojiBar icon">
+      <img src="assets/EBIcon.png" width="200" alt="EmojiBar icon">
     </td>
     <td valign="top">
-      <h2>DarkBar</h2>
+      <h2>EmojiBar</h2>
       <p>A small menu bar utility that adds a way to access the stock TB emoji picker from the Control Strip.</p>
       <p><b>Download:</b> grab the latest <code>.dmg</code> from the
       <a href="../../releases/latest">Releases page</a>.</p>
